@@ -1,18 +1,17 @@
 Hello :wave:
 
-I am Yekta Ulas KESIK
-A fullstack developer.:computer:
+Hello 👋
 
-I am coding those languages currently:
+I'm Yekta Ulas KESIK, a dedicated Frontend Developer with a passion for crafting dynamic and user-friendly web applications. :computer:
 
-:snake:	Python
-::earth_americas:: Javascript
-:computer:	HTML-CSS
+Currently, I'm focused on coding in:
 
-With a passion for both personal growth and for software development, I keep learning new
-languages while sharpening existing skills. Ready to apply my passion for coding to a talented
-engineering team to develop quality solutions.
-
+🌎 React
+⚡ Next.js
+🔧 TypeScript
+🐍 Python
+💻 HTML & CSS
+With a continuous drive for personal and professional growth, I’m always learning new technologies and refining my existing skills. I’m excited to bring my passion for frontend development to a talented engineering team, delivering high-quality, impactful solutions. Let's build something great together!
 <!---
 Donatello-Hub/Donatello-Hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
